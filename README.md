@@ -44,16 +44,19 @@ To create Javadoc:
 gradle javadoc
 ```
 
-Sample Output of TicTacToe Game as GUI :
+## Sample Output 
 
-![tictactoeview](assets/tictactoeview.png)
+#### TicTacToe Game GUI :
 
-![message](assets/message.png)
+<img src="assets/tictactoeview.png" width="650">
+<br>
+<img src="assets/message.png" width="650">
+<br>
+<img src="assets/filesave.png" width="650">
+<br>
 
-![menubar](assets/filesave.png)
 
-
-Sample Output of X/O TicTacToe Game run on Command-line :
+#### X/O TicTacToe Game run on Command-line :
 
 $ gradle build <br>
 $ gradle run <br>
@@ -68,8 +71,7 @@ down?<br>
 1<br>
  X    <br>
       <br>
-      <br>
-<br>
+      <br>     
 Player 2 please indicate where you would like to put your token.<br>
 across? (0 to quit)<br>
 2<br>
@@ -78,7 +80,6 @@ down?<br>
  X    <br>
    O  <br>
       <br>
-<br>
 Player 1 please indicate where you would like to put your token.<br>
 across? (0 to quit)<br>
 1<br>
@@ -87,7 +88,6 @@ down?<br>
  X    <br>
  X O  <br>
       <br>
-<br>
 Player 2 please indicate where you would like to put your token.<br>
 across? (0 to quit)<br>
 2<br>
@@ -96,7 +96,6 @@ down?<br>
  X O  <br>
  X O  <br>
       <br>
-<br>
 Player 1 please indicate where you would like to put your token.<br>
 across? (0 to quit)<br>
 1<br>
@@ -105,7 +104,7 @@ down?<br>
  X O  <br>
  X O  <br>
  X    <br>
-<br>
+
 The winner of the game is Player 1<br>
 
 
