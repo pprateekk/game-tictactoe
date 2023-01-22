@@ -1,6 +1,4 @@
-# Project Title
-
-Tic Tac Toe Game : X/O and Numerical
+# Tic Tac Toe Game : X/O and Numerical
 
 ## Description
 
@@ -24,10 +22,10 @@ TextUI.java : This class is where the main is called for X/O TicTacToe Game. Thi
 TicTacToeView.java : TicTacToeView class is used to run the program with a graphical-user-interface. It is has features like Reset, Save, Load, Play a Numerical TicTacToe game.
 
 
-It is recommended that the player be familiar with the rules of Numerical TicTacToe game by seraching online. 
+It is recommended that the player be familiar with the rules of Numerical TicTacToe game by searching online. 
 
 
-### Executing program
+## Executing program
 
 To build the program, the user must enter:
 ```
@@ -45,6 +43,9 @@ To create Javadoc:
 ```
 gradle javadoc
 ```
+
+Sample Output of TicTacToe Game as GUI :
+
 
 Sample Output of X/O TicTacToe Game run on Command-line :
 
@@ -104,27 +105,9 @@ The winner of the game is Player 1<br>
 
 ## Limitations
 
-1. The program has not implemented the Numerical TicTacToe Game properly for the GUI. <br>
-2. When the X/O TicTacToe Game is played on the GUI, it replaces the pieces that are present on the board.<br>
-3. The program doesn't support the loading of a gaming from another file. <br>
-4. The program doesn't support the saving of the Player profile. But it supports the saving of the TicTacToe game.<br>
-
-
-
-## Author Information
-
-Name: Prateek Prateek<br>
-Student ID: 1199556<br>
-E-mail: pprateek@uoguelph.ca<br>
-
+1. The program has not been implemented with the Numerical TicTacToe Game properly for the GUI yet. <br>
+2. The program doesn't support the loading of a gaming from another file. <br>
 
 ## Acknowledgement/References
 
 The program makes reference from the codes provided by the Professor. <br>
-The projects referenced from are: exampleguiproject and skeletonSolution. <br>
-Specific code used: **private JPanel makeButtonGrid(int tall, int wide)** from **KakuruView.java** <br>
-and some part of **private void enterNumber(ActionEvent e)** from **KakuruView.java** <br><br>
-Also, the program takes inspiration from the Assignment 1 previously done in the course. 
-
-
-
