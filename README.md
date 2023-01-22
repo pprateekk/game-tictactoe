@@ -46,6 +46,12 @@ gradle javadoc
 
 Sample Output of TicTacToe Game as GUI :
 
+![tictactoeview](game-tictactoe/assets/tictactoeview.png)
+
+![message](game-tictactoe/assets/message.png)
+
+![menubar](game-tictactoe/assets/filesave.png)
+
 
 Sample Output of X/O TicTacToe Game run on Command-line :
 
